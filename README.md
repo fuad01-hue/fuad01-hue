@@ -1,8 +1,8 @@
-# Halloo There, I'm [Fu'ad Hidayahtullah] 👋
+# Halloo There, I'm Fu'ad Hidayahtullah 👋
 
 An Information Systems student, I'm still learning and eager to keep growing.
 
-- 🎓 I'm currently a student at **[Universitas Malikussaleh]**
+- 🎓 I'm currently a student at **Universitas Malikussaleh**
 - 🧠 I'm currently learning at **[HackerRank](https://www.hackerrank.com/profile/fuad_250180107)**
 
 ---
