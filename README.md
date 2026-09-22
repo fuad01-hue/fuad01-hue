@@ -12,7 +12,7 @@
 - 🎓 I'm currently studying at **Universitas Malikussaleh**
 - 🧠 Sharpening my logic and coding skills on **[HackerRank](https://www.hackerrank.com/profile/fuad_250180107)**
 - 🌱 Actively learning and building projects with **PHP and Python**
-- 📫 How to reach me: **[Fuadhidayahtullah123@gmail.com]**
+- 📫 How to reach me: **Fuadhidayahtullah123@gmail.com**
 
 ### 🛠️ Languages and Tools
 
